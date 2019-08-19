@@ -1,0 +1,10 @@
+0001 #n Juan Fernandez Puig #d Plaza del tubo, 1 – Palma
+0002 #n Josep Pulido Torrejimeno #d Calle Principal, 2 – Barcelona
+0003 #n Toni Molina Ferrosola #d Plaza del Progreso, 10 – Palma
+0004 #n Andres Gerrero Medina #d Calle Alcalá, 29 – Madrid
+0005 #n Pedro Gomila Moreno #d Calle de la Piedra, 1 – Valencia
+0006 #n Jose Jimenez Blasco #d Plaza de Noruega, 2 – Alicante
+0007 #n Amadeo Mozart Suñer #d Calle del Mendigo, 1 – Murcia
+0008 #n José Mota Tirado #d Calle del pino, 2 – Santander
+0009 #n Gloria Moreno Ferrer #d Avenida de España, 1 – Madrid
+0010 #n Rubén Bauza Gutierrez #d Calle del Jamón, 2 – Jaén
